@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Norbert Preining <norbert@preining.info>
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: slick-google-map\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-13 09:36+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin-menu.php:55 admin-menu.php:208 admin-menu.php:260 admin-menu.php:320
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: functions.php:61
+msgid "Click on map markers to get directions"
+msgstr ""
+
+#: functions.php:82
+msgid "Get Directions"
+msgstr ""
+
+#: functions.php:83
+msgid "Print Directions"
+msgstr ""
+
+#: functions.php:84
+msgid "Additional options"
+msgstr ""
+
+#: functions.php:85
+msgid "Avoid tolls"
+msgstr ""
+
+#: functions.php:86
+msgid "Avoid highways"
+msgstr ""
+
+#: functions.php:87
+msgid "KM"
+msgstr ""
+
+#: functions.php:88
+msgid "Miles"
+msgstr ""
+
+#: functions.php:684
+msgid "Settings"
+msgstr ""
+
+#: head.php:160
+msgid "The KML file is not a valid KML, KMZ or GeoRSS document."
+msgstr ""
+
+#: head.php:161
+msgid "The KML file could not be fetched."
+msgstr ""
+
+#: head.php:162
+msgid "The KML file exceeds the feature limits of KmlLayer."
+msgstr ""
+
+#: head.php:163
+msgid ""
+"The KML file could not be found. Most likely it is an invalid URL, or the "
+"document is not publicly available."
+msgstr ""
+
+#: head.php:164
+msgid "The KmlLayer is invalid."
+msgstr ""
+
+#: head.php:165
+msgid "The KML file could not be loaded within a reasonable amount of time."
+msgstr ""
+
+#: head.php:166
+msgid "The KML file exceeds the file size limits of KmlLayer."
+msgstr ""
+
+#: head.php:167
+msgid "The KML file failed to load for an unknown reason."
+msgstr ""
+
+#: head.php:173
+msgid "Street View"
+msgstr ""
+
+#: head.php:174
+msgid "Address"
+msgstr ""
+
+#: head.php:175
+msgid "Directions"
+msgstr ""
+
+#: head.php:176
+msgid "To here"
+msgstr ""
+
+#: head.php:177
+msgid "From here"
+msgstr ""
+
+#: widget.php:29
+msgid "Slick Google Map"
+msgstr ""
+
+#: widget.php:30
+msgid ""
+"A simple and intuitive, yet elegant fully documented Google map plugin that "
+"installs as a widget and a short code. The plugin is packed with useful "
+"features. Widget and shortcode enabled. Offers extensive configuration "
+"options for marker, controls, size, KML files, location by latitude/"
+"longitude, location by address, info window, directions, traffic/bike lanes "
+"and more."
+msgstr ""
