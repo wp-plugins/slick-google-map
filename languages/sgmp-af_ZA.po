@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slick google map plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-21 13:27+0900\n"
+"PO-Revision-Date: 2015-01-21 13:37+0900\n"
+"Last-Translator: Norbert Preining <norbert@preining.info>\n"
+"Language-Team: Johnny Dunhin <johnny@trouidees.co.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: admin-menu.php:55 admin-menu.php:208 admin-menu.php:260 admin-menu.php:320
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie toegang na die bladsy"
+
+#: functions.php:61
+msgid "Click on map markers to get directions"
+msgstr "Klik op die kaart om aanwysings te kry"
+
+#: functions.php:82
+msgid "Get Directions"
+msgstr "Kry aanwysings"
+
+#: functions.php:83
+msgid "Print Directions"
+msgstr "Druk aanwysings"
+
+#: functions.php:84
+msgid "Additional options"
+msgstr "Keuses"
+
+#: functions.php:85
+msgid "Avoid tolls"
+msgstr "Vermy Toll paaie"
+
+#: functions.php:86
+msgid "Avoid highways"
+msgstr "Vermy snelweg"
+
+#: functions.php:87
+msgid "KM"
+msgstr "Km"
+
+#: functions.php:88
+msgid "Miles"
+msgstr "Myle"
+
+#: functions.php:684
+msgid "Settings"
+msgstr "Instellings"
+
+#: head.php:160
+msgid "The KML file is not a valid KML, KMZ or GeoRSS document."
+msgstr "The KML file is not a valid KML, KMZ or GeoRSS document."
+
+#: head.php:161
+msgid "The KML file could not be fetched."
+msgstr "The KML file could not be fetched."
+
+#: head.php:162
+msgid "The KML file exceeds the feature limits of KmlLayer."
+msgstr "The KML file exceeds the feature limits of KmlLayer."
+
+#: head.php:163
+msgid ""
+"The KML file could not be found. Most likely it is an invalid URL, or the "
+"document is not publicly available."
+msgstr ""
+"The KML file could not be found. Most likely it is an invalid URL, or the "
+"document is not publicly available."
+
+#: head.php:164
+msgid "The KmlLayer is invalid."
+msgstr "The KmlLayer is invalid."
+
+#: head.php:165
+msgid "The KML file could not be loaded within a reasonable amount of time."
+msgstr "The KML file could not be loaded within a reasonable amount of time."
+
+#: head.php:166
+msgid "The KML file exceeds the file size limits of KmlLayer."
+msgstr "The KML file exceeds the file size limits of KmlLayer."
+
+#: head.php:167
+msgid "The KML file failed to load for an unknown reason."
+msgstr "Fout"
+
+#: head.php:173
+msgid "Street View"
+msgstr "Street View"
+
+#: head.php:174
+msgid "Address"
+msgstr "Adres"
+
+#: head.php:175
+msgid "Directions"
+msgstr "Aanwysings"
+
+#: head.php:176
+msgid "To here"
+msgstr "Na die plek"
+
+#: head.php:177
+msgid "From here"
+msgstr "Van hier"
+
+#: widget.php:29
+msgid "Slick Google Map"
+msgstr "Slick Google Map"
+
+#: widget.php:30
+msgid ""
+"A simple and intuitive, yet elegant fully documented Google map plugin that "
+"installs as a widget and a short code. The plugin is packed with useful "
+"features. Widget and shortcode enabled. Offers extensive configuration "
+"options for marker, controls, size, KML files, location by latitude/"
+"longitude, location by address, info window, directions, traffic/bike lanes "
+"and more."
+msgstr ""
+"A simple and intuitive, yet elegant fully documented Google map plugin that "
+"installs as a widget and a short code. The plugin is packed with useful "
+"features. Widget and shortcode enabled. Offers extensive configuration "
+"options for marker, controls, size, KML files, location by latitude/"
+"longitude, location by address, info window, directions, traffic/bike lanes "
+"and more."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentasie"
+
+#~ msgid "Shortcode Builder"
+#~ msgstr "Shortcode Builder"
+
+#~ msgid "Donate"
+#~ msgstr "Donate"
+
+#~ msgid ""
+#~ "ATTENTION! (by Comprehensive Google Map Plugin)\n"
+#~ "\n"
+#~ "Your blog/site theme or one of your plugins uses jQuery javascript "
+#~ "library which is older than the version 1.3.0.\n"
+#~ "The Comprehensive Google Map plugin will not work with such outdated "
+#~ "jQuery version.\n"
+#~ "\n"
+#~ "The minimum jQuery requirement for Comprehensive Google Map plugin is "
+#~ "version 1.3.0. Apologies for the inconvenience.."
+#~ msgstr ""
+#~ "ATTENTION! (by Comprehensive Google Map Plugin)\n"
+#~ "\n"
+#~ "Your blog/site theme or one of your plugins uses jQuery javascript "
+#~ "library which is older than the version 1.3.0.\n"
+#~ "The Comprehensive Google Map plugin will not work with such outdated "
+#~ "jQuery version.\n"
+#~ "\n"
+#~ "The minimum jQuery requirement for Comprehensive Google Map plugin is "
+#~ "version 1.3.0. Apologies for the inconvenience.."
+
+#~ msgid ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Google "
+#~ "found the following address(es) as NON-geographic and could not find them:"
+#~ "<br /><br />[REPLACE]<br />Consider revising the address(es). Did you "
+#~ "make a mistake when creating marker locations or did not provide a full "
+#~ "geo-address? Alternatively use Google web to validate the address(es)"
+#~ msgstr ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Google "
+#~ "found the following address(es) as NON-geographic and could not find them:"
+#~ "<br /><br />[REPLACE]<br />Consider revising the address(es). Did you "
+#~ "make a mistake when creating marker locations or did not provide a full "
+#~ "geo-address? Alternatively use Google web to validate the address(es)"
+
+#~ msgid ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />You did not specify any marker locations for the "
+#~ "Google map! Please check the following when adding marker locations:<br /"
+#~ "><b>[a]</b> In the shortcode builder, did you add location(s) and clicked "
+#~ "the Add button before generating shortcode?<br /><b>[b]</b> In the "
+#~ "widget, did you add location(s) and clicked Add button before clicking "
+#~ "Save?<br /><br />Please revisit and reconfigure your widget or shortcode "
+#~ "configuration. The map requires at least one marker location to be added.."
+#~ msgstr ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />You did not specify any marker locations for the "
+#~ "Google map! Please check the following when adding marker locations:<br /"
+#~ "><b>[a]</b> In the shortcode builder, did you add location(s) and clicked "
+#~ "the Add button before generating shortcode?<br /><b>[b]</b> In the "
+#~ "widget, did you add location(s) and clicked Add button before clicking "
+#~ "Save?<br /><br />Please revisit and reconfigure your widget or shortcode "
+#~ "configuration. The map requires at least one marker location to be added.."
+
+#~ msgid ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />Google returned the following error when trying "
+#~ "to load KML file:<br /><br />[MSG] ([STATUS])"
+#~ msgstr ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />Google returned the following error when trying "
+#~ "to load KML file:<br /><br />[MSG] ([STATUS])"
+
+#~ msgid ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />It looks like your webpage has reference to the "
+#~ "older Google API v2, in addition to the API v3 used by Comprehensive "
+#~ "Google Map! An example of plugin using the older API v2, can be jquery."
+#~ "gmap plugin.<br /><br />Please disable conflicting plugin(s). In the "
+#~ "meanwhile, map generation is aborted!"
+#~ msgstr ""
+#~ "<b>ATTENTION</b>! (by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />It looks like your webpage has reference to the "
+#~ "older Google API v2, in addition to the API v3 used by Comprehensive "
+#~ "Google Map! An example of plugin using the older API v2, can be jquery."
+#~ "gmap plugin.<br /><br />Please disable conflicting plugin(s). In the "
+#~ "meanwhile, map generation is aborted!"
+
+#~ msgid ""
+#~ "<b>ATTENTION</b>!(by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />It looks like Google map API could not be "
+#~ "reached. Map generation was aborted!<br /><br />Please check that Google "
+#~ "API script was loaded in the HTML source of your web page"
+#~ msgstr ""
+#~ "<b>ATTENTION</b>!(by Comprehensive Google Map Plugin)<br /><br />Dear "
+#~ "blog/website owner,<br />It looks like Google map API could not be "
+#~ "reached. Map generation was aborted!<br /><br />Please check that Google "
+#~ "API script was loaded in the HTML source of your web page"
